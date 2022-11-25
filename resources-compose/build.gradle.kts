@@ -27,6 +27,7 @@ android {
 }
 
 kotlin {
+    ios()
     jvm()
     sourceSets {
         commonMain {

@@ -10,7 +10,7 @@ plugins {
 }
 
 android {
-    compileSdk = 31
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "dev.icerock.moko.samples.compose"
